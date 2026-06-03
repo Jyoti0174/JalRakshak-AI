@@ -1,4 +1,4 @@
-# 🌿 AGROMIND — Smart Irrigation Intelligence Platform
+# 🌿 JalRakshak — Smart Irrigation Intelligence Platform
 
 > **8 breakthrough AI modules for precision irrigation** — from plant emotion detection to satellite radar. Built for Indian farmers.
 
